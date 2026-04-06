@@ -4,11 +4,11 @@
 	<a href="https://github.com/umutuzatmaz?tab=repositories" title="My Projects (GitHub)">
 		<img src="https://img.shields.io/badge/My_Projects-242120?style=for-the-badge&logo=github&logoColor=white"/>
 	</a>
-	<a href="https://buymeacoffee.com/umutuzatmaz" title="Support My Work">
-		<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFD105?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
-	</a>
 	<a href="https://store.steampowered.com/developer/henilances" title="My Games (Steam)">
 		<img src="https://img.shields.io/badge/My Games-59A9FF?style=for-the-badge&logo=steam&logoColor=white"/>
+	</a>
+	<a href="https://buymeacoffee.com/umutuzatmaz" title="Support My Work">
+		<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFD105?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
 	</a>
 </p>
 
