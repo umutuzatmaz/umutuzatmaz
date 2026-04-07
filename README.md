@@ -23,7 +23,7 @@ I am a passionate and dedicated game and software developer with experience in c
 ### 🧭 Development and Coding Priorities
 
 | Principle						    | Description                      			|
-|-----------------------------------|-------------------------------------------|
+| --------------------------------- | ----------------------------------------- |
 | 🏗️ Engineering Foundation 		| Robust, scalable, academic systems 		|
 | 🎯 Analytical Precision 			| Logical consistency & high accuracy 		|
 | ⚡ Performance-Driven 			| Resource-optimized, fluid algorithms 		|
@@ -35,7 +35,7 @@ I am a passionate and dedicated game and software developer with experience in c
 
 ---
 
-## 🚀 My Projects
+### 🚀 My Projects
 
 | Project                                                            					| Description                                  				| Tech Stack        		| Status	|
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------- | ------------- |
