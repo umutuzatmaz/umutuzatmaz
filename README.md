@@ -37,13 +37,13 @@ I am a passionate and dedicated game and software developer with experience in c
 
 ### 🚀 My Projects
 
-| Project                                                            					| Description                                  				| Tech Stack        		| Status	|
-| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------- | ------------- |
-| 🚀 [Project: First Game](https://heni.dev) 								| Sci-fi survival game focused on exploration and survival mechanics 	| Unity, C# 			| 🚧 Developing 	|
-| 🏢 [Personnel Automation System](https://heni.dev/projects/personnel-automation-system) 		| Enterprise system for managing personnel operations and records 	| PHP, JavaScript 	| 🟢 Active 	|
-| 🔐 [Identity and Access Management System](https://heni.dev/projects/central-authentication-system) 	| Centralized platform for managing users, roles, and access control	| Go, OAuth2, OpenID 	| 🧪 Testing 	|
-| ⚙️ [System Center Configuration Manager](https://heni.dev/projects/corporate-software-center) 		| Secure, centralized deployment platform without admin privileges.	| C#, Go, ASP.NET 	| 🧪 Testing 	|
-| 🏨 Guesthouse Reservation Module									| Scalable reservation system for internal & external users 		| PHP, MySQL 			| 🟢 Active 	|
+| Project                                                            				| Description                               | Tech Stack        	| Status		|
+| --------------------------------------------------------------------------------- | ----------------------------------------- | --------------------- | ------------- |
+| 🚀 [First Game](https://heni.dev) 												| Sci-fi survival: exploration & survival	| Unity, C# 			| 🚧 Dev		|
+| 🏢 [Personnel Automation](https://heni.dev/projects/personnel-automation-system)	| Personnel ops & records management		| PHP, JavaScript 		| 🟢 Active 		|
+| 🔐 [IAM System](https://heni.dev/projects/central-authentication-system)			| User, role & access control platform 		| Go, OAuth2, OpenID 	| 🧪 Testing 	|
+| ⚙️ [SCCM](https://heni.dev/projects/corporate-software-center)					| Centralized software deployment 			| C#, Go, ASP.NET 		| 🧪 Testing 	|
+| 🏨 Guesthouse Reservations														| Internal & external reservation system 	| PHP, MySQL 			| 🟢 Active 		|
 
 ---
 
