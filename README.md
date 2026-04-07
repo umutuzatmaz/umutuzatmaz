@@ -22,16 +22,28 @@ I am a passionate and dedicated game and software developer with experience in c
 
 ### 🧭 Development and Coding Priorities
 
-| Principle						   | Description                      |
-|----------------------------------|----------------------------------|
-| 🏗️ Engineering Foundation | Robust, scalable, academic systems |
-| 🎯 Analytical Precision | Logical consistency & high accuracy |
-| ⚡ Performance-Driven | Resource-optimized, fluid algorithms |
-| 🚀 Pragmatic Growth | Continuous improvement over perfectionism |
-| 🧩 Modular Architecture | Reusable, decoupled, modular design |
-| 🧼 Clean Code | Readable, documented, industry-standard |
-| ♾️ Sustainability | Minimized technical debt & longevity |
-| 🔄 Disciplined Workflow | Consistent cycles & continuous learning |
+| Principle						    | Description                      			|
+|-----------------------------------|-------------------------------------------|
+| 🏗️ Engineering Foundation 		| Robust, scalable, academic systems 		|
+| 🎯 Analytical Precision 			| Logical consistency & high accuracy 		|
+| ⚡ Performance-Driven 			| Resource-optimized, fluid algorithms 		|
+| 🚀 Pragmatic Growth 				| Continuous improvement over perfectionism |
+| 🧩 Modular Architecture 			| Reusable, decoupled, modular design 		|
+| 🧼 Clean Code 					| Readable, documented, industry-standard 	|
+| ♾️ Sustainability 				| Minimized technical debt & longevity 		|
+| 🔄 Disciplined Workflow 			| Consistent cycles & continuous learning 	|
+
+---
+
+## 🚀 My Projects
+
+| Project                                                            					| Description                                  				| Tech Stack        		| Status	|
+| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------- | ------------- |
+| 🚀 [Project: First Game](https://heni.dev) 								| Sci-fi survival game focused on exploration and survival mechanics 	| Unity, C# 			| 🚧 Developing 	|
+| 🏢 [Personnel Automation System](https://heni.dev/projects/personnel-automation-system) 		| Enterprise system for managing personnel operations and records 	| PHP, JavaScript 	| 🟢 Active 	|
+| 🔐 [Identity and Access Management System](https://heni.dev/projects/central-authentication-system) 	| Centralized platform for managing users, roles, and access control	| Go, OAuth2, OpenID 	| 🧪 Testing 	|
+| ⚙️ [System Center Configuration Manager](https://heni.dev/projects/corporate-software-center) 		| Secure, centralized deployment platform without admin privileges.	| C#, Go, ASP.NET 	| 🧪 Testing 	|
+| 🏨 Guesthouse Reservation Module									| Scalable reservation system for internal & external users 		| PHP, MySQL 			| 🟢 Active 	|
 
 ---
 
@@ -48,9 +60,9 @@ I am a passionate and dedicated game and software developer with experience in c
 
 <p>
 	<a href="https://discord.com/users/hennyumut" title="Discord">
-		<img src="https://img.shields.io/badge/Discord:_heni-5C7DF2?style=for-the-badge&logo=discord&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Discord-heni-5C7DF2?style=for-the-badge&logo=discord&logoColor=white"/>
 	</a>
 	<a href="https://steamcommunity.com/profiles/76561198443063688" title="Steam">
-		<img src="https://img.shields.io/badge/Steam:_heni-59A9FF?style=for-the-badge&logo=steam&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Steam-heni-59A9FF?style=for-the-badge&logo=steam&logoColor=white"/>
 	</a>
 </p>
